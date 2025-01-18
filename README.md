@@ -12,7 +12,7 @@
 
 - [Acesso ao projeto](#acesso-ao-projeto)
 
-- [Explicando os blocos de código](#explicando-os-blocos-de-código)
+- [Agradecimentos](#agradecimentos)
 
 
 ## Descrição do projeto 
@@ -45,10 +45,13 @@ O objetivo deste repositório é ilustrar o aprendizado em JavaScript que pude a
 
 ## Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto](https://github.com/AgataAraujo-dev/game_numeroSecreto) ou [acessá-lo pelo navegador](https://).
+Você pode [acessar o código fonte do projeto](https://github.com/AgataAraujo-dev/game_numeroSecreto) ou [acessá-lo pelo navegador](https://game-one-ochre.vercel.app/).
 
 ###
 
-## Explicando os blocos de código
+## Agradecimentos
 
-...
+Agradeço muito ao programa ONE (Oracle Next Education) pela grande oportunidade de fazer parte da turma G8 e aprender tanto com colegas excepcionais! E obrigada também pela Alura com sua plataforma repleta de cursos que utilizam uma didática única e realmente efetiva.
+
+<a href="https://www.oracle.com/br/education/oracle-next-education/" target="_blank"> <img src="https://github.com/AgataAraujo-dev/game_numeroSecreto/blob/3956f1e290574c815f4fd1e033f4f66a14355064/one_logo.png" alt="ONE - Oracle Next Education" width="40" height="40"/> </a>
+<a href="https://www.alura.com.br/" target="_blank"> <img src="https://github.com/AgataAraujo-dev/game_numeroSecreto/blob/3956f1e290574c815f4fd1e033f4f66a14355064/alura_logo.png" alt="Alura" width="40" height="40"/> </a>
