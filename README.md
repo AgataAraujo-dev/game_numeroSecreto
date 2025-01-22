@@ -45,7 +45,7 @@ O objetivo deste repositório é ilustrar o aprendizado em JavaScript que pude a
 
 ## Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto](https://github.com/AgataAraujo-dev/desafioONE-amigoSecreto) ou [acessá-lo pelo navegador]().
+Você pode [acessar o código fonte do projeto](https://github.com/AgataAraujo-dev/game_numeroSecreto) ou [acessá-lo pelo navegador](https://game-one-ochre.vercel.app/).
 
 ###
 
